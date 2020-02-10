@@ -1,6 +1,6 @@
 # Starting a new project
 
-1. change to appropriate directory - e.g. `cd Project_Code`
+1. change to appropriate directory - e.g. `cd Programming`
 2. clone repo from github - `git clone "https......"`
 3. check list (`ls`) and status (`git status`) to confirm cloned files to dir 
 4. change to new directory - e.g. `cd Notes`
